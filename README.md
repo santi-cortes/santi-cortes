@@ -3,7 +3,7 @@
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     width="200"
   />
-  <h1 align="center">Hi :), I'm a Full Stack developer</h1>
+  <h1 align="center">Hi :), I'm Santiago and I'am a Full Stack developer</h1>
 
   <h3 align="center">
     I love programming 💓, this profession has radically changed my life, it is
