@@ -22,7 +22,7 @@
         alt="HTML"
         height="40"
         width="40"
-      />
+      />&nbsp;
     </div>
     <div>
       <img
@@ -30,7 +30,7 @@
         alt="CSS"
         height="40"
         width="40"
-      />
+      />&nbsp;
     </div>
     <div>
       <img
@@ -38,7 +38,7 @@
         alt="JavaScript"
         height="40"
         width="40"
-      />
+      />&nbsp;
     </div>
     <div>
       <img
@@ -46,7 +46,7 @@
         alt="React"
         height="40"
         width="40"
-      />
+      />&nbsp;
     </div>
     <div>
       <img
@@ -54,7 +54,7 @@
         alt="Node.js"
         height="40"
         width="40"
-      />
+      />&nbsp;
     </div>
     <div>
       <img
@@ -62,7 +62,7 @@
         alt="Python"
         height="40"
         width="40"
-      />
+      />&nbsp;
     </div>
     <div>
       <img
@@ -70,7 +70,7 @@
         alt="MongoDB"
         height="40"
         width="40"
-      />
+      />&nbsp;
     </div>
     <div>
       <img
@@ -78,8 +78,9 @@
         alt="Django"
         height="40"
         width="40"
-      />
+      />&nbsp;
     </div>
   </div>
 </div>
+
 
