@@ -77,6 +77,20 @@
       width="40"
       style="color: white; background-color: white;"
     />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+      alt="MySql"
+      height="40"
+      width="40"
+      style="color: white; background-color: white;"
+    />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
+      alt="Postgresql"
+      height="40"
+      width="40"
+      style="color: white; background-color: white;"
+    />&nbsp;
   </div>
 </div>
 
