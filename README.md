@@ -64,6 +64,18 @@
       height="40"
       width="40"
     />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+      alt="TypeScript"
+      height="40"
+      width="40"
+    />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg"
+      alt="NextJs"
+      height="40"
+      width="40"
+    />&nbsp;
   </div>
 </div>
 
