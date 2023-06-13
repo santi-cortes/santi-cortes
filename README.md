@@ -71,8 +71,8 @@
       width="40"
     />&nbsp;
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg"
-      alt="NextJs"
+      src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+      alt="Angular"
       height="40"
       width="40"
       style="color: white; background-color: white;"
