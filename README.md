@@ -75,6 +75,7 @@
       alt="NextJs"
       height="40"
       width="40"
+      style="color: white"
     />&nbsp;
   </div>
 </div>
