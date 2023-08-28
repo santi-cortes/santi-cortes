@@ -91,6 +91,27 @@
       width="40"
       style="color: white; background-color: white;"
     />&nbsp;
+        <img
+      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+      alt="Docker"
+      height="40"
+      width="40"
+      style="color: white; background-color: white;"
+    />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
+      alt="Express"
+      height="40"
+      width="40"
+      style="color: white; background-color: white;"
+    />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg"
+      alt="ThreeJS"
+      height="40"
+      width="40"
+      style="color: white; background-color: white;"
+    />&nbsp;
   </div>
 </div>
 
